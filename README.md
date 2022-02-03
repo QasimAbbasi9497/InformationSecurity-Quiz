@@ -84,7 +84,7 @@ Ans : Message authentication
 ## In how many ways we treat the Risk?
 
 ```text
-Ans : 4
+Ans : 5
 ```
 
 ***
